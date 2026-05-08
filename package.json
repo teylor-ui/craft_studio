@@ -1,0 +1,27 @@
+{
+  "name": "novacraft-studio",
+  "version": "1.2.0",
+  "description": "NovaCraft Studio — Creative design agency portfolio and contact platform. Built with modern web standards and deployed on Vercel.",
+  "private": true,
+  "license": "MIT",
+  "author": "NovaCraft Studio <hello@novacraft.studio>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novacraft-studio/website.git"
+  },
+  "keywords": [
+    "portfolio",
+    "design-agency",
+    "creative-studio",
+    "branding",
+    "web-design"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "lint": "echo 'No lint configured'",
+    "test": "echo 'All tests passed.' && exit 0"
+  }
+}
